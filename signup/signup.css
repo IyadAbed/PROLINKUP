@@ -1,0 +1,16 @@
+.icon{
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.436);
+}
+
+.icon:hover{
+  color: black;
+}
+
+.red{
+  color: red;
+}
+
+.borderRed{
+  border: 1 solid red;
+}

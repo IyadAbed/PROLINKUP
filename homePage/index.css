@@ -129,3 +129,10 @@ footer {
   background-color: rgba(0, 0, 0, 0.366);
 }
 
+.sign{
+  color: black;
+}
+
+.sign:hover{
+  color: white;
+}
