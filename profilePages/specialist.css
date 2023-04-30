@@ -22,6 +22,13 @@
   width: 100%;
 }
 
+.grey2-image{
+  background-image: url(./images/back.jpg);
+  min-height: auto;
+  height: 100%;
+  width: 100%;
+}
+
 .foot{
   width: 100%;
 }
