@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero{
+  background-image: url('./image/2img.jpg');
+}
+
+.react-multiple-carousel__arrow, .react-multiple-carousel__arrow--right {
+  background-color: black;
+}
+
+.react-multi-carousel-item,.react-multi-carousel-item--active{
+  display: flex;
+  justify-content: center;
+}
+
+
+
